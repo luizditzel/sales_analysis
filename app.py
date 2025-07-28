@@ -56,5 +56,5 @@ fig3 = px.line(sales_time, x='Order Date', y='Sales', title="Sales tendency")
 st.plotly_chart(fig3, use_container_width=True)
 
 # Tables with details
-st.subheader("📋 Dados Filtrados")
+st.subheader("Filtered data")
 st.dataframe(df_filtered)
