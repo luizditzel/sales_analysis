@@ -4,6 +4,7 @@ Example project based on Kaggle dataset
 # Dashboard de Vendas - Superstore
 
 Este projeto apresenta um *dashboard interativo criado com Streamlit, utilizando dados da Superstore (dataset do kaggle) para análise de vendas.
+Link: https://salesanalysis-ditzel.streamlit.app/
 
 # Principais funcionalidades
 - KPIs principais: vendas, lucro e pedidos.
